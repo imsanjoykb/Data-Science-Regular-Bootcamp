@@ -1,0 +1,16 @@
+age,income,gender,m_status,buys
+<25,high,male,single,no
+<25,high,male,married,no
+25-35,high,male,single,yes
+>35,medium,male,single,yes
+>35,low,female,single,yes
+>35,low,female,single,no
+25-35,low,female,married,yes
+<25,medium,male,married,no
+<25,low,female,single,yes
+>35,medium,female,married,yes
+<25,medium,female,single,yes
+25-35,medium,male,married,yes
+25-35,high,female,single,yes
+>35,medium,male,married,no
+<25,high,male,single,no
