@@ -1,0 +1,17 @@
+1- Is there any Null values , if yes then whether they are more than 5% of data , if yes then impute them wisely using some Machine algorithm e.g. RF , Regression Tree etc. You can use mice if you use R which is more robust in terms of imputation
+
+2-Is there any outlier , you need to get answer for it from business domain expert whether these outliers are true outliers e.g. Christmas Sales or some malfunctioning or could be any reason.
+
+3- Do proper scaling of your numeric feature between 0 to 1 if you are using regression analysis and not using tree based algorithm but using non tree based algo, tree based algo does not require scaling you can do scaling e.g. range ,center scaling. Centering is around mean which is best for outliers
+
+4- Encoding for categorical variables , again if you are using non tree based algo e.g. RF , GBM. Non tree based algo e.g. linear regression , logistic regression requires encoding. But R does it for you automatically , you can create your model without encoding and see whether there is some good influence of a specific categorical variables on target variable if yes then encode it and use only that level in your modeling
+
+5- Any senseless data e.g. some category defined in upper case some in lower case for the same category , transform it into one case
+
+6- Transform data from wide to long format not for machine algorithm but for EDA (exploratory data analysis) , not sure about python but R ggplot2 works best with long format data - this is very crucial step (EDA) you do to understand your data after cleaning
+
+7- Check out samples is there any co variate shift in your data set for different time periods or not , i take it as a data cleaning step as well check out Co variate Shift. this is not the case with competition data but happen in real world
+
+8- Features which you are selecting whether available at prediction time or not , for example some features e.g. previous day open complaints - this is not available in data warehouse due to some data feed lagging , you created model based on previous historical data which has previous data but in real time it is not in data warehouse.
+
+9- Further many more you may or may not find during your EDA process , it is subject to data at your hand and business problem you are going to solve.
