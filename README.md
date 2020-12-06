@@ -6,3 +6,5 @@ Machine Learning Algorithm
 Data Cleaning Process
 
 Data Mining Tehnique
+
+Data Visualization
