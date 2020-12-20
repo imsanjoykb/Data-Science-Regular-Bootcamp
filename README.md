@@ -7,6 +7,6 @@ Data Cleaning Process
 
 Data Mining Tehnique
 
-Data Visualization
+Data Visualization--- MatplotLib
 
 Web Scraping
