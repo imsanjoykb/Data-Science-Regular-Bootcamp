@@ -7,6 +7,6 @@ Data Cleaning Process
 
 Data Mining Tehnique
 
-Data Visualization--- MatplotLib, Seaborn
+Data Visualization--- MatplotLib, Seaborn, Plotly
 
 Web Scraping
