@@ -9,6 +9,8 @@ Data Mining Tehnique
 
 Dashboard Development
 
+Feature Engineering
+
 Data Visualization--- MatplotLib, Seaborn, Plotly, Bokah
 
 Web Scraping
