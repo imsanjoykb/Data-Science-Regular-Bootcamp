@@ -7,6 +7,8 @@ Data Cleaning Process
 
 Data Mining Tehnique
 
+Dashboard Development
+
 Data Visualization--- MatplotLib, Seaborn, Plotly, Bokah
 
 Web Scraping
