@@ -7,6 +7,8 @@ Data Cleaning Process
 
 Data Mining Tehnique
 
+Database Connection
+
 Dashboard Development
 
 Feature Engineering & Feature Selection Technique
