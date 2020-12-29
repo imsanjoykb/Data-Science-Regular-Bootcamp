@@ -7,7 +7,7 @@ Data Cleaning Process
 
 Data Mining Tehnique
 
-Database Connection--- MySql
+Database Connection--- MySql, PostgresSql
 
 Dashboard Development
 
