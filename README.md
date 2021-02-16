@@ -17,4 +17,4 @@ Feature Engineering & Feature Selection Technique
 
 Data Visualization--- MatplotLib, Seaborn, Plotly, Bokah
 
-Web Scraping
+Web Scraping - Scrapy
