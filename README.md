@@ -20,3 +20,5 @@ Data Visualization--- MatplotLib, Seaborn, Plotly, Bokah
 Web Scraping - Scrapy, data collection
 
 Apache Spark
+
+ETL Process
