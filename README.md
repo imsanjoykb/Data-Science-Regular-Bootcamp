@@ -1,3 +1,12 @@
+# Author: Sanjoy Biswas
+
+Data Scientist | Machine Learning Engineer </br>
+Website: https://imsanjoykb.github.io/ </br>
+ResearchGate: https://www.researchgate.net/profile/imsanjoykb </br>
+Linkedin: https://www.linkedin.com/in/imsanjoykb/ </br>
+Email: sanjoy.eee32@gmail.com <br>
+
+<hr>
 # Data-Science
 My all Practice for Data Science
 
