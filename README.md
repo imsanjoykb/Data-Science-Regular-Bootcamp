@@ -31,3 +31,5 @@ Web Scraping - Scrapy, data collection
 Apache Spark
 
 ETL Process
+
+Database connection
