@@ -38,4 +38,6 @@ ETL Process
 
 Database connection
 
+ML lgorithm - Regression & Classification
+
 
